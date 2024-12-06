@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635376474398",
+    "project_id": "batalhadeseries-856c4",
+    "storage_bucket": "batalhadeseries-856c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635376474398:android:47419b1f81aee90bcf110f",
+        "android_client_info": {
+          "package_name": "com.theo.batalha_de_series"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzW0PU9-sU95Gk4quLFB4Vhy1111tQwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635376474398:android:1e965d27993db6e9cf110f",
+        "android_client_info": {
+          "package_name": "com.theo.batalha_series.batalha_series"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzW0PU9-sU95Gk4quLFB4Vhy1111tQwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
