@@ -30,4 +30,6 @@ class SeriesController {
       throw Exception('Erro ao buscar séries.');
     }
   }
+
+
 }

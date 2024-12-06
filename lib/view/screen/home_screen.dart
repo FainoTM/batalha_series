@@ -1,5 +1,6 @@
 import 'package:batalha_series/view/screen/ranking_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:onesignal_flutter/onesignal_flutter.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
 import '../../controller/serie_controller.dart';
@@ -8,6 +9,7 @@ import 'batalha_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   final _controller = SeriesController();
+
 
   @override
   Widget build(BuildContext context) {
